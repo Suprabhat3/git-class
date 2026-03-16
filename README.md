@@ -1,2 +1,2 @@
 # git-class
-this is a news website develop by Suprabhat for education purpose only 
+### hello world we are learning git today
